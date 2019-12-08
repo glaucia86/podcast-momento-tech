@@ -23,7 +23,9 @@ Vocês podem contribuir de diversas maneiras. Entre elas, destaques da semana na
 Para ajudar, bastam criar uma **[ISSUE AQUI]()** incluindo as seguintes informações:
 
 ```bash
-
+1) Data da Contribuição
+2) Tipo de Contribuição: artigo, video, podcasts...
+3) Link da Contribuição
 ```
 
 ### Temporada 1
