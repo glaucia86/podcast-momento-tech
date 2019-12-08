@@ -28,6 +28,3 @@ Para ajudar, bastam criar uma **[ISSUE AQUI]()** incluindo as seguintes informa�
 3) Link da Contribuição
 ```
 
-### Temporada 1
-
-* S1E0 - Piloto: Semana 01/12/2019 - 
