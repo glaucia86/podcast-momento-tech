@@ -4,7 +4,7 @@
 
 ## Link do Áudio
 
-Aqui segue o episódio S1E0 do Podcast - **[AQUI]()**
+Aqui segue o episódio S1E0 do Podcast - **[AQUI](http://bit.ly/2ritKA3)**
 
 ## Links Citados
 
